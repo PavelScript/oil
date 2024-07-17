@@ -3,10 +3,22 @@ body {
     background-color: #FFE8C8;
 }
 
-p, {
-    font-family: san-serif;
+p {
+    font-family: sans-serif;
 }
 
 .text {
     align-content: center;
+}
+
+.navitem {
+    color: white;   
+}
+
+.head {
+    background-color: #FFC96F;
+}
+
+.head span {
+    font-family: sans-serif;
 }
